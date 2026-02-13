@@ -1,0 +1,20 @@
+ Business Actions per Segment
+# Champions
+--Provide VIP loyalty rewards
+--Offer early access to new products
+--Encourage referrals with bonuses
+
+#Loyal Customers
+--Cross-sell premium products
+--Personalized email campaigns
+--Offer membership upgrades
+
+#At Risk
+--Send win-back discount offers
+--Targeted re-engagement emails
+--Feedback survey to understand churn
+
+#Potential Loyalist
+--Limited-time promotional offers
+--Product recommendations
+--Loyalty point incentives
